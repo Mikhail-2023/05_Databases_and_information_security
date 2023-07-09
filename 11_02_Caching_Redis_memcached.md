@@ -21,8 +21,8 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 #### Ответ
-1. ![02-01](https://github.com/Mikhail-2023/Redis_memcached/blob/main/11.2_screen/02-01.PNG)
-2. ![02-01](https://github.com/Mikhail-2023/Redis_memcached/blob/main/11.2_screen/02-02.PNG)
+1. ![02-01](https://github.com/Mikhail-2023/05_Databases_and_information_security/blob/main/11.2_screen/02-01.PNG)
+2. ![02-02](https://github.com/Mikhail-2023/05_Databases_and_information_security/blob/main/11.2_screen/02-02.PNG)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
@@ -31,7 +31,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 #### Ответ
-1. ![03-01](https://github.com/Mikhail-2023/Redis_memcached/blob/main/11.2_screen/03-01.PNG)
+1. ![03-01](https://github.com/Mikhail-2023/05_Databases_and_information_security/blob/main/11.2_screen/03-01.PNG)
 ---
 
 ### Задание 4. Запись данных в Redis
@@ -40,5 +40,5 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 #### Ответ
-1. ![04-01](https://github.com/Mikhail-2023/Redis_memcached/blob/main/11.2_screen/04-01.PNG)
-2. ![04-02](https://github.com/Mikhail-2023/Redis_memcached/blob/main/11.2_screen/04-02.PNG)
+1. ![04-01](https://github.com/Mikhail-2023/05_Databases_and_information_security/blob/main/11.2_screen/04-01.PNG)
+2. ![04-02](https://github.com/Mikhail-2023/05_Databases_and_information_security/blob/main/11.2_screen/04-02.PNG)
