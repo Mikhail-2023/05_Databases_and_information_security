@@ -2,7 +2,7 @@
 # coding=utf-8
 import pika
 
-credentials = pika.PlainCredentials('host1', '12')
+credentials = pika.PlainCredentials('vm1', '12')
 parameters = pika.ConnectionParameters('localhost', 5672, 'host1', credentials)
 connection = pika.BlockingConnection(parameters)
 
