@@ -2,7 +2,7 @@
 # coding=utf-8
 import pika
 
-connection = pika.BlockingConnection(pika.ConnectionParameters('192.168.0.176'))
+connection = pika.BlockingConnection(pika.ConnectionParameters('192.168.0.151'))
 channel = connection.channel()
 channel.queue_declare(queue='hello')
 channel.basic_publish(exchange='', routing_key='hello', body='Hello Netology!')
